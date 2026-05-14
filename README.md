@@ -80,7 +80,7 @@ style.css
 ```
 body{
 font-family:Arial;
-background:linear-gradient(to right,#0ff770,#0bd5dc);
+background:linear-gradient(to bottom,#a52a2a,#ffffff);
 height:100vh;
 display:flex;
 justify-content:center;
@@ -115,7 +115,7 @@ border:1px solid #ccc;
 
 button{
 padding:8px 12px;
-background:#e12097;
+background:#43c59e;
 color:white;
 border:none;
 border-radius:5px;
@@ -167,16 +167,17 @@ margin-top:10px;
 }
 
 #clearBtn{
-background:#ff5c5c;
+
+background:#d63c3c;
 }
 
 #clearBtn:hover{
-background:#d63c3c;
+background:#ffb085;
 }
 
 #count{
 font-size:14px;
-color:#555;
+color:#222;
 }
 ```
 script.js
@@ -262,7 +263,7 @@ showTasks();
 
 ## OUTPUT
 
-<img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/801f6597-31a1-4cac-8000-b239cdf396cc" />
+<img width="1877" height="891" alt="image" src="https://github.com/user-attachments/assets/94c31dab-9cd5-438f-b310-85de2008369f" />
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
